@@ -95,6 +95,13 @@ export default class Generator {
       totalSeatPitch: getSeatPitch(randAircraft)
     }
 
+    const accomodies: Accomodations = {
+      wifi: true,
+      power: false,
+      overhead: false,
+      seatback: true
+    }
+
       return {
         flightNumber,
         origin,
