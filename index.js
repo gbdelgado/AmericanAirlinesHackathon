@@ -2,7 +2,7 @@ const fs = require('fs');
 const http = require('http');
 
 
-fs.readFile('./index.html', function (err, html) {
+fs.readFile('/index.html', function (err, html) {
     if (err) {
         throw err; 
     }       
