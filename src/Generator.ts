@@ -68,37 +68,29 @@ export default class Generator {
     const arrivalTime = departureTime.plus({ hours: duration.hours, minutes: duration.minutes }).setZone(destination.timezone);
 
     //Calulate Temperature
-    const getTemperature = function (startDes: Airport) {
-      switch (startDes.city) {
-        case 'Dallas-Fort Worth': {
-          return this.random(60, 100);
-        }
+    // let getTemperature = function (startDes: Airport) {
+    //   switch (startDes.city) {
+    //     case 'Dallas-Fort Worth': {
+    //       return this.random(60, 100);
+    //     }
 
-        case 'New York City': {
-          return this.random(0, 70);
-        }
+    //     case 'New York City': {
+    //       return this.random(0, 70);
+    //     }
 
-        case 'Los Angeles': {
-          return this.random(60, 70);
-        }
+    //     case 'Los Angeles': {
+    //       return this.random(60, 70);
+    //     }
 
-        case 'Chicago': {
-          return this.random(0, 60);
-        }
-      }
-    }
+    //     case 'Chicago': {
+    //       return this.random(0, 60);
+    //     }
+    //   }
+    // }
 
     const temp: Temperature = {
-      currentTemperature: getTemperature(origin)
+      currentTemperature: 90
     }
-
-    // Get Legroom
-    // const getLegRoom = function (model: any) {
-    //   //   switch (  )
-    //   // }
-
-
-
 
       return {
         flightNumber,
