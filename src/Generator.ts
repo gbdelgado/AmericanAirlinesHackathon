@@ -81,8 +81,18 @@ export default class Generator {
       currentTemperature: getTemperature(origin)
     }
 
+    let getSeatPitch = (plane: Aircraft) => {
+      if (plane.model == '738'){
+        return 30;
+      } else if (plane.model == '757'){
+        return 32;
+      } else {
+        return 31;
+      }
+    }
+
     const pitch: SeatPitch = {
-      totalSeatPitch: 41
+      totalSeatPitch: getSeatPitch(randAircraft)
     }
 
       return {
