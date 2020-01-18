@@ -32,8 +32,8 @@ declare interface Temperature{
   currentTemperature: number;
 }
 
-declare interface LegRoom{
-  availLegRoom: number;
+declare interface SeatPitch{
+  totalSeatPitch: number;
 }
 
 declare interface Flight {
