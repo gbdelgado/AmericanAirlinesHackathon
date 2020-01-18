@@ -43,7 +43,7 @@ export default class Generator {
   }
 
   // Randomly generate a flight for the given origin and destination
-  flight(origin: Airport, destination: Airport, departureTime: DateTime): Flight {
+  flight(origin: Airport, destination: Airport, departureTime: DateTime, temperature: Temperature): Flight {
     // Generate a random flight number
     const flightNumber: string = this.random(1, 9999)
       .toFixed(0)
@@ -67,15 +67,49 @@ export default class Generator {
 
     const arrivalTime = departureTime.plus({ hours: duration.hours, minutes: duration.minutes }).setZone(destination.timezone);
 
+    //Calulate Temperature
+    const getTemperature = function (startDes: Airport) {
+      switch (startDes.city) {
+        case 'Dallas-Fort Worth': {
+          return this.random(60, 100);
+        }
+        
+        case 'New York City': {
+          return this.random(0,70);
+        }
+        
+        case 'Los Angeles':{
+          return this.random(60,70);
+        }
+
+        case 'Chicago':{
+          return this.random(0,60);
+        }
+      }
+    }
+
+    const temp: Temperature = {
+      currentTemperature: getTemperature(origin)
+    }
+
+    // Get LeG Room
+    // const getLegRoom = function (model: any) {
+    //   switch (  )
+    // }
+
+  
+
+
     return {
-      flightNumber,
-      origin,
-      destination,
-      distance,
-      duration,
-      departureTime: departureTime.toISO(),
-      arrivalTime: arrivalTime.toISO(),
-      aircraft: randAircraft,
-    };
+  flightNumber,
+  origin,
+  destination,
+  distance,
+  duration,
+  departureTime: departureTime.toISO(),
+  arrivalTime: arrivalTime.toISO(),
+  aircraft: randAircraft,
+  temperature: temp,
+};
   }
 }

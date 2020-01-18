@@ -28,6 +28,14 @@ declare interface FlightDuration {
   locale: string;
 }
 
+declare interface Temperature{
+  currentTemperature: number;
+}
+
+declare interface LegRoom{
+  availLegRoom: number;
+}
+
 declare interface Flight {
   flightNumber: string;
   aircraft: Aircraft;
@@ -37,6 +45,7 @@ declare interface Flight {
   duration: FlightDuration;
   departureTime: string;
   arrivalTime: string;
+  temperature: Temperature;
 }
 
 declare interface FlightQueryParams {
