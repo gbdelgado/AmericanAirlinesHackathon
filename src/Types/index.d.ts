@@ -46,6 +46,7 @@ declare interface Flight {
   departureTime: string;
   arrivalTime: string;
   temperature: Temperature;
+  seatPitch: SeatPitch;
 }
 
 declare interface FlightQueryParams {

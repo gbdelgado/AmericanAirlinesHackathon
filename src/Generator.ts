@@ -68,7 +68,7 @@ export default class Generator {
     const arrivalTime = departureTime.plus({ hours: duration.hours, minutes: duration.minutes }).setZone(destination.timezone);
 
     //Calulate Temperature
-    let getTemperature = function (startDes: Airport) {
+    let getTemperature = (startDes: Airport) => {
       var city = startDes.city;
       if(city == 'Chicago'){
         return this.random(0, 20);
@@ -81,6 +81,10 @@ export default class Generator {
       currentTemperature: getTemperature(origin)
     }
 
+    const pitch: SeatPitch = {
+      totalSeatPitch: 41
+    }
+
       return {
         flightNumber,
         origin,
@@ -91,6 +95,7 @@ export default class Generator {
         arrivalTime: arrivalTime.toISO(),
         aircraft: randAircraft,
         temperature: temp,
+        seatPitch: pitch
       };
     }
   }
