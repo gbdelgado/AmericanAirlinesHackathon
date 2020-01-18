@@ -36,6 +36,13 @@ declare interface SeatPitch{
   totalSeatPitch: number;
 }
 
+declare interface Accomodations{
+  wifi: boolean;
+  power: boolean;
+  overhead: boolean;
+  seatback: boolean;
+}
+
 declare interface Flight {
   flightNumber: string;
   aircraft: Aircraft;
@@ -47,6 +54,7 @@ declare interface Flight {
   arrivalTime: string;
   temperature: Temperature;
   seatPitch: SeatPitch;
+  accomodies: Accomodations;
 }
 
 declare interface FlightQueryParams {

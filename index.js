@@ -1,8 +1,14 @@
-const request = require('request');
+const fs = require('fs');
+const http = require('http');
 
 
-request('https://hackathon2020.herokuapp.com/flights?date=2020-01-01', { json: true }, (err, res, body) => {
-  if (err) { return console.log(err); }
-  console.log(body);
+fs.readFile('./index.html', function (err, html) {
+    if (err) {
+        throw err; 
+    }       
+    http.createServer(function(request, response) {  
+        response.writeHeader(200, {"Content-Type": "text/html"});  
+        response.write(html);  
+        response.end();  
+    }).listen(8000);
 });
-
