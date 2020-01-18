@@ -1,0 +1,22 @@
+{
+  "name": "americanairlineshackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbdelgado/AmericanAirlinesHackathon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbdelgado/AmericanAirlinesHackathon/issues"
+  },
+  "homepage": "https://github.com/gbdelgado/AmericanAirlinesHackathon#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
