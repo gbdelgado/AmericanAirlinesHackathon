@@ -69,31 +69,12 @@ export default class Generator {
 
     //Calulate Temperature
     let getTemperature = function (startDes: Airport) {
-      switch (startDes.city) {
-        case 'Dallas-Fort Worth': {
-          var temperature = this.random(60, 100);
-          break;
-        }
-
-        case 'New York City': {
-          var temperature = this.random(0, 70);
-          break;
-        }
-
-        case 'Los Angeles': {
-          var temperature =this.random(60, 70);
-          break;
-        }
-
-        case 'Chicago': {
-          var temperature = this.random(0, 60);
-          break;
-        }
-
-        default:
-          var temperature = this.random(0, 1);
+      var city = startDes.city;
+      if(city == 'Chicago'){
+        return 90;
+      } else {
+        return 200;
       }
-      return temperature;
     }
 
     const temp: Temperature = {
