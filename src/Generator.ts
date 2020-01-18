@@ -71,9 +71,9 @@ export default class Generator {
     let getTemperature = function (startDes: Airport) {
       var city = startDes.city;
       if(city == 'Chicago'){
-        return 90;
+        return this.random(0, 20);
       } else {
-        return 200;
+        return 20000;
       }
     }
 
