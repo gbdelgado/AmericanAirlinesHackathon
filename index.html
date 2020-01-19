@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<<<<<<< HEAD
 <html lang="en">
 
 <head>
@@ -26,11 +27,38 @@
 
 
     <!-- =======================================================
+=======
+<html lang="en">    
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+        <!-- Favicon -->
+        <link href="img/favicon.ico" rel="icon">
+
+        <!-- Google Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Raleway:400,500,700|Roboto:400,900" rel="stylesheet">
+
+        <!-- Bootstrap CSS File -->
+        <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Libraries CSS Files -->
+        <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+
+        <!-- Main Stylesheet File -->
+        <link href="css/style.css" rel="stylesheet">
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+        
+        <!-- =======================================================
+>>>>>>> 010b9f943e8171d6f84bc8f433b5be2bc889ba07
             Theme Name: Bell
             Theme URL: https://bootstrapmade.com/bell-free-bootstrap-4-template/
             Author: BootstrapMade.com
             Author URL: https://bootstrapmade.com
         ======================================================= -->
+<<<<<<< HEAD
 </head>
 
 <body>
@@ -176,5 +204,128 @@
     <script>Sortable.create(sortableList, { animation: 100, group: 'list-1', draggable: '.list-group-item', handle: '.list-group-item', sort: true, filter: '.sortable-disabled', chosenClass: 'active' });</script>
 
 </body>
+=======
+    </head>
+
+    <body>
+        <!--Header with Logo, Website Name, and Social Media Links-->
+        <header class="row mr-0 bg-danger border-dark" >
+            <div class="col-md-2 text-center m-0">
+                <a href="http://" target="_blank" rel="noopener noreferrer">
+                    <i class="fa fa-plane fa-4x text-center pt-2" style="color:black;" aria-hidden="true"></i>
+                </a>
+            </div>
+
+            <div class="col-md-7 pt-3">
+                <h1>American Airlines</h1>
+            </div>
+
+            <div class="col-md-3">
+                <a href="http://" target="_blank" rel="noopener noreferrer">
+                    <i class="fa fa-twitter fa-3x pt-3 mr-5" style="color:black;" aria-hidden="true"></i>
+                </a>
+                <a href="http://" target="_blank" rel="noopener noreferrer">
+                    <i class="fa fa-facebook fa-3x pt-3 mr-5" style="color:black;" aria-hidden="true"></i>
+                </a>
+                <a href="http://" target="_blank" rel="noopener noreferrer">
+                    <i class="fa fa-linkedin fa-3x pt-3 mr-5" style="color:black;" aria-hidden="true"></i>
+                </a>
+                <a href="http://" target="_blank" rel="noopener noreferrer">
+                    <i class="fa fa-envelope fa-3x pt-3" style="color:black;" aria-hidden="true"></i>
+                </a>
+            </div>
+        </header>
+
+        <form action="POST">
+            <main class="container mt-5">
+                <!--Section for selecting To and From Flight Locations using Radio Buttons.-->
+                <div class="row justify-content-md-center mb-4">
+                    <h2>Select your Destination</h2>
+                </div>
+    
+                <div class="row form-group">
+                    <div class="col-md-6">
+                        <div class="btn-group-vertical btn-group-toggle justify-content-md-right" data-toggle="buttons" style="width: 100%;">
+                            <label class="btn btn-secondary active btn-block">
+                              <input type="radio" name="startLocation" id="startTucson" class="form-control"> Tucson, AZ
+                            </label>
+                            <label class="btn btn-secondary btn-block">
+                              <input type="radio" name="startLocation" id="startChicago" class="form-control"> Chicago, IL
+                            </label>
+                            <label class="btn btn-secondary btn-block">
+                              <input type="radio" name="startLocation" id="startManhattan" class="form-control"> Manhattan, NY
+                            </label>
+                            <label class="btn btn-secondary btn-block">
+                              <input type="radio" name="startLocation" id="startDallas" class="form-control"> Dallas, TX
+                            </label>
+                          </div>
+                    </div>
+    
+                    <div class="col-md-6">
+                        <div class="btn-group-vertical btn-group-toggle justify-content-md-right" data-toggle="buttons" style="width: 100%;">
+                            <label class="btn btn-secondary active btn-block">
+                              <input type="radio" name="endLocation" id="endTucson" class="form-control"> Tucson, AZ
+                            </label>
+                            <label class="btn btn-secondary btn-block">
+                              <input type="radio" name="endLocation" id="endDallas" class="form-control"> Chicago, IL
+                            </label>
+                            <label class="btn btn-secondary btn-block">
+                              <input type="radio" name="endLocation" id="endManhattan" class="form-control"> Manhattan, NY
+                            </label>
+                            <label class="btn btn-secondary btn-block">
+                              <input type="radio" name="endLocation" id="endDallas" class="form-control"> Dallas, TX
+                            </label>
+                          </div>
+                    </div>
+                </div>
+    
+                <!--Section for choosing the dates-->
+                <div class="row justify-content-md-center mt-5">
+                    <h2>Choose your Dates</h2>
+                </div>
+    
+                <div class="row">
+                    <div class="col-6">
+                        <input class="form-control" type="date" value="2020-01-18" id="dateStart" class="form-control">
+                    </div>
+        
+                    <div class="col-6">
+                        <input class="form-control" type="date" value="2020-01-19" id="dateEnd" class="form-control">
+                    </div>
+                </div>
+    
+                <!--Section for choosing the accomodation priority-->
+                <div class="row justify-content-md-center mt-5">
+                    <h2>Order Your Priorities</h2>
+                </div>
+    
+                <ul class="list-group" id="demo1">
+                    <li class="list-group-item">Turbulence</li>
+                    <li class="list-group-item">Entertainment</li>
+                    <li class="list-group-item">Leg Room</li>
+                    <li class="list-group-item">Length of Flight</li>
+                </ul>
+    
+                <!--Submit Form Button-->
+                <div class="row justify-content-md-center mt-5">
+                    <button class="btn btn-lg btn-primary" style="width: 60%;" type="submit" id="register" value="Register" disabled="disabled">Take Off!</button>
+                </div>
+        </form>
+
+
+        </main>
+
+
+
+
+
+
+        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/gh/RubaXa/Sortable/Sortable.min.js"></script>
+        <script>Sortable.create(demo1, { animation: 100, group: 'list-1', draggable: '.list-group-item', handle: '.list-group-item', sort: true, filter: '.sortable-disabled', chosenClass: 'active' });</script>
+    </body>
+>>>>>>> 010b9f943e8171d6f84bc8f433b5be2bc889ba07
 
 </html>
