@@ -1,0 +1,6998 @@
+[
+    {
+        "flightNumber": "4858",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 802,
+        "duration": {
+            "locale": "2h 1m",
+            "hours": 2,
+            "minutes": 1
+        },
+        "departureTime": "2020-01-01T04:49:00.000-06:00",
+        "arrivalTime": "2020-01-01T06:50:00.000-06:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 69
+        },
+        "arrivalTemp": {
+            "currentTemperature": 15
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "2691",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 802,
+        "duration": {
+            "locale": "2h 11m",
+            "hours": 2,
+            "minutes": 11
+        },
+        "departureTime": "2020-01-01T08:31:00.000-06:00",
+        "arrivalTime": "2020-01-01T10:42:00.000-06:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 67
+        },
+        "arrivalTemp": {
+            "currentTemperature": 10
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "9793",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 802,
+        "duration": {
+            "locale": "2h 13m",
+            "hours": 2,
+            "minutes": 13
+        },
+        "departureTime": "2020-01-01T11:51:00.000-06:00",
+        "arrivalTime": "2020-01-01T14:04:00.000-06:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 66
+        },
+        "arrivalTemp": {
+            "currentTemperature": 53
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "1798",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 802,
+        "duration": {
+            "locale": "2h 3m",
+            "hours": 2,
+            "minutes": 3
+        },
+        "departureTime": "2020-01-01T15:16:00.000-06:00",
+        "arrivalTime": "2020-01-01T17:19:00.000-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 96
+        },
+        "arrivalTemp": {
+            "currentTemperature": 53
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "3643",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 802,
+        "duration": {
+            "locale": "2h 16m",
+            "hours": 2,
+            "minutes": 16
+        },
+        "departureTime": "2020-01-01T18:57:00.000-06:00",
+        "arrivalTime": "2020-01-01T21:13:00.000-06:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 69
+        },
+        "arrivalTemp": {
+            "currentTemperature": 2
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "6324",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 802,
+        "duration": {
+            "locale": "2h 1m",
+            "hours": 2,
+            "minutes": 1
+        },
+        "departureTime": "2020-01-01T22:39:00.000-06:00",
+        "arrivalTime": "2020-01-02T00:40:00.000-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 67
+        },
+        "arrivalTemp": {
+            "currentTemperature": 15
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "2320",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 802,
+        "duration": {
+            "locale": "2h 10m",
+            "hours": 2,
+            "minutes": 10
+        },
+        "departureTime": "2020-01-02T02:27:00.000-06:00",
+        "arrivalTime": "2020-01-02T04:37:00.000-06:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 80
+        },
+        "arrivalTemp": {
+            "currentTemperature": 22
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "8590",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 1234,
+        "duration": {
+            "locale": "3h 10m",
+            "hours": 3,
+            "minutes": 10
+        },
+        "departureTime": "2020-01-01T05:37:00.000-06:00",
+        "arrivalTime": "2020-01-01T06:47:00.000-08:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 68
+        },
+        "arrivalTemp": {
+            "currentTemperature": 1
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "2046",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 1234,
+        "duration": {
+            "locale": "3h 15m",
+            "hours": 3,
+            "minutes": 15
+        },
+        "departureTime": "2020-01-01T09:59:00.000-06:00",
+        "arrivalTime": "2020-01-01T11:14:00.000-08:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 79
+        },
+        "arrivalTemp": {
+            "currentTemperature": 42
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "8270",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 1234,
+        "duration": {
+            "locale": "3h 22m",
+            "hours": 3,
+            "minutes": 22
+        },
+        "departureTime": "2020-01-01T14:25:00.000-06:00",
+        "arrivalTime": "2020-01-01T15:47:00.000-08:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 82
+        },
+        "arrivalTemp": {
+            "currentTemperature": 69
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "3018",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 1234,
+        "duration": {
+            "locale": "3h 6m",
+            "hours": 3,
+            "minutes": 6
+        },
+        "departureTime": "2020-01-01T18:56:00.000-06:00",
+        "arrivalTime": "2020-01-01T20:02:00.000-08:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 74
+        },
+        "arrivalTemp": {
+            "currentTemperature": 23
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "8712",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 1234,
+        "duration": {
+            "locale": "3h 16m",
+            "hours": 3,
+            "minutes": 16
+        },
+        "departureTime": "2020-01-01T23:22:00.000-06:00",
+        "arrivalTime": "2020-01-02T00:38:00.000-08:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 62
+        },
+        "arrivalTemp": {
+            "currentTemperature": 40
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "0579",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 1234,
+        "duration": {
+            "locale": "3h 11m",
+            "hours": 3,
+            "minutes": 11
+        },
+        "departureTime": "2020-01-02T03:42:00.000-06:00",
+        "arrivalTime": "2020-01-02T04:53:00.000-08:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 72
+        },
+        "arrivalTemp": {
+            "currentTemperature": 23
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "5977",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 44m",
+            "hours": 3,
+            "minutes": 44
+        },
+        "departureTime": "2020-01-01T03:01:00.000-06:00",
+        "arrivalTime": "2020-01-01T07:45:00.000-05:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 74
+        },
+        "arrivalTemp": {
+            "currentTemperature": 13
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "8668",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 38m",
+            "hours": 3,
+            "minutes": 38
+        },
+        "departureTime": "2020-01-01T04:51:00.000-06:00",
+        "arrivalTime": "2020-01-01T09:29:00.000-05:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 64
+        },
+        "arrivalTemp": {
+            "currentTemperature": 24
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "6081",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 56m",
+            "hours": 3,
+            "minutes": 56
+        },
+        "departureTime": "2020-01-01T06:45:00.000-06:00",
+        "arrivalTime": "2020-01-01T11:41:00.000-05:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 67
+        },
+        "arrivalTemp": {
+            "currentTemperature": 42
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "4411",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 39m",
+            "hours": 3,
+            "minutes": 39
+        },
+        "departureTime": "2020-01-01T08:49:00.000-06:00",
+        "arrivalTime": "2020-01-01T13:28:00.000-05:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 79
+        },
+        "arrivalTemp": {
+            "currentTemperature": 56
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "2156",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 44m",
+            "hours": 3,
+            "minutes": 44
+        },
+        "departureTime": "2020-01-01T10:37:00.000-06:00",
+        "arrivalTime": "2020-01-01T15:21:00.000-05:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 74
+        },
+        "arrivalTemp": {
+            "currentTemperature": 66
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "2437",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 39m",
+            "hours": 3,
+            "minutes": 39
+        },
+        "departureTime": "2020-01-01T12:53:00.000-06:00",
+        "arrivalTime": "2020-01-01T17:32:00.000-05:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 67
+        },
+        "arrivalTemp": {
+            "currentTemperature": 60
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "4633",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 56m",
+            "hours": 3,
+            "minutes": 56
+        },
+        "departureTime": "2020-01-01T15:01:00.000-06:00",
+        "arrivalTime": "2020-01-01T19:57:00.000-05:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 86
+        },
+        "arrivalTemp": {
+            "currentTemperature": 4
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "6085",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 36m",
+            "hours": 3,
+            "minutes": 36
+        },
+        "departureTime": "2020-01-01T16:56:00.000-06:00",
+        "arrivalTime": "2020-01-01T21:32:00.000-05:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 99
+        },
+        "arrivalTemp": {
+            "currentTemperature": 46
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "3816",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 40m",
+            "hours": 3,
+            "minutes": 40
+        },
+        "departureTime": "2020-01-01T18:39:00.000-06:00",
+        "arrivalTime": "2020-01-01T23:19:00.000-05:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 60
+        },
+        "arrivalTemp": {
+            "currentTemperature": 22
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "7413",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 42m",
+            "hours": 3,
+            "minutes": 42
+        },
+        "departureTime": "2020-01-01T20:41:00.000-06:00",
+        "arrivalTime": "2020-01-02T01:23:00.000-05:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 74
+        },
+        "arrivalTemp": {
+            "currentTemperature": 11
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "7440",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 33m",
+            "hours": 3,
+            "minutes": 33
+        },
+        "departureTime": "2020-01-01T22:38:00.000-06:00",
+        "arrivalTime": "2020-01-02T03:11:00.000-05:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 76
+        },
+        "arrivalTemp": {
+            "currentTemperature": 7
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "3950",
+        "origin": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 48m",
+            "hours": 3,
+            "minutes": 48
+        },
+        "departureTime": "2020-01-02T00:40:00.000-06:00",
+        "arrivalTime": "2020-01-02T05:28:00.000-05:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 65
+        },
+        "arrivalTemp": {
+            "currentTemperature": 3
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "6272",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 739,
+        "duration": {
+            "locale": "1h 53m",
+            "hours": 1,
+            "minutes": 53
+        },
+        "departureTime": "2020-01-01T03:50:34.285-05:00",
+        "arrivalTime": "2020-01-01T04:43:34.285-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 33
+        },
+        "arrivalTemp": {
+            "currentTemperature": 22
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "7658",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 739,
+        "duration": {
+            "locale": "1h 58m",
+            "hours": 1,
+            "minutes": 58
+        },
+        "departureTime": "2020-01-01T06:55:08.570-05:00",
+        "arrivalTime": "2020-01-01T07:53:08.570-06:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 13
+        },
+        "arrivalTemp": {
+            "currentTemperature": 19
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "4159",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 739,
+        "duration": {
+            "locale": "1h 59m",
+            "hours": 1,
+            "minutes": 59
+        },
+        "departureTime": "2020-01-01T09:51:42.855-05:00",
+        "arrivalTime": "2020-01-01T10:50:42.855-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 50
+        },
+        "arrivalTemp": {
+            "currentTemperature": 27
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "2375",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 739,
+        "duration": {
+            "locale": "1h 57m",
+            "hours": 1,
+            "minutes": 57
+        },
+        "departureTime": "2020-01-01T13:16:17.140-05:00",
+        "arrivalTime": "2020-01-01T14:13:17.140-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 65
+        },
+        "arrivalTemp": {
+            "currentTemperature": 54
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "8730",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 739,
+        "duration": {
+            "locale": "2h 4m",
+            "hours": 2,
+            "minutes": 4
+        },
+        "departureTime": "2020-01-01T16:42:51.425-05:00",
+        "arrivalTime": "2020-01-01T17:46:51.425-06:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 60
+        },
+        "arrivalTemp": {
+            "currentTemperature": 34
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "7560",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 739,
+        "duration": {
+            "locale": "2h 2m",
+            "hours": 2,
+            "minutes": 2
+        },
+        "departureTime": "2020-01-01T19:42:25.710-05:00",
+        "arrivalTime": "2020-01-01T20:44:25.710-06:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 25
+        },
+        "arrivalTemp": {
+            "currentTemperature": 23
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "4625",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 739,
+        "duration": {
+            "locale": "1h 51m",
+            "hours": 1,
+            "minutes": 51
+        },
+        "departureTime": "2020-01-01T22:44:59.995-05:00",
+        "arrivalTime": "2020-01-01T23:35:59.995-06:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 48
+        },
+        "arrivalTemp": {
+            "currentTemperature": 22
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "4208",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 739,
+        "duration": {
+            "locale": "2h 0m",
+            "hours": 2,
+            "minutes": 0
+        },
+        "departureTime": "2020-01-02T01:50:34.280-05:00",
+        "arrivalTime": "2020-01-02T02:50:34.280-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 39
+        },
+        "arrivalTemp": {
+            "currentTemperature": 29
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "1932",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "6h 35m",
+            "hours": 6,
+            "minutes": 35
+        },
+        "departureTime": "2020-01-01T02:44:17.142-05:00",
+        "arrivalTime": "2020-01-01T06:19:17.142-08:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 7
+        },
+        "arrivalTemp": {
+            "currentTemperature": 18
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "5113",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "6h 59m",
+            "hours": 6,
+            "minutes": 59
+        },
+        "departureTime": "2020-01-01T04:02:34.284-05:00",
+        "arrivalTime": "2020-01-01T08:01:34.284-08:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 28
+        },
+        "arrivalTemp": {
+            "currentTemperature": 34
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "1215",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "6h 34m",
+            "hours": 6,
+            "minutes": 34
+        },
+        "departureTime": "2020-01-01T05:44:51.426-05:00",
+        "arrivalTime": "2020-01-01T09:18:51.426-08:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 9
+        },
+        "arrivalTemp": {
+            "currentTemperature": 33
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "7060",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "6h 51m",
+            "hours": 6,
+            "minutes": 51
+        },
+        "departureTime": "2020-01-01T07:16:08.568-05:00",
+        "arrivalTime": "2020-01-01T11:07:08.568-08:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 39
+        },
+        "arrivalTemp": {
+            "currentTemperature": 18
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "6944",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "7h 3m",
+            "hours": 7,
+            "minutes": 3
+        },
+        "departureTime": "2020-01-01T09:04:25.710-05:00",
+        "arrivalTime": "2020-01-01T13:07:25.710-08:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 9
+        },
+        "arrivalTemp": {
+            "currentTemperature": 67
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "3847",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "6h 31m",
+            "hours": 6,
+            "minutes": 31
+        },
+        "departureTime": "2020-01-01T10:40:42.852-05:00",
+        "arrivalTime": "2020-01-01T14:11:42.852-08:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 38
+        },
+        "arrivalTemp": {
+            "currentTemperature": 64
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "6365",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "7h 0m",
+            "hours": 7,
+            "minutes": 0
+        },
+        "departureTime": "2020-01-01T12:12:59.994-05:00",
+        "arrivalTime": "2020-01-01T16:12:59.994-08:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 29
+        },
+        "arrivalTemp": {
+            "currentTemperature": 69
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "0428",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "6h 21m",
+            "hours": 6,
+            "minutes": 21
+        },
+        "departureTime": "2020-01-01T13:34:17.136-05:00",
+        "arrivalTime": "2020-01-01T16:55:17.136-08:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 59
+        },
+        "arrivalTemp": {
+            "currentTemperature": 51
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "2766",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "6h 26m",
+            "hours": 6,
+            "minutes": 26
+        },
+        "departureTime": "2020-01-01T15:14:34.278-05:00",
+        "arrivalTime": "2020-01-01T18:40:34.278-08:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 70
+        },
+        "arrivalTemp": {
+            "currentTemperature": 6
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "9694",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "6h 20m",
+            "hours": 6,
+            "minutes": 20
+        },
+        "departureTime": "2020-01-01T16:45:51.420-05:00",
+        "arrivalTime": "2020-01-01T20:05:51.420-08:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 66
+        },
+        "arrivalTemp": {
+            "currentTemperature": 22
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "9033",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "6h 47m",
+            "hours": 6,
+            "minutes": 47
+        },
+        "departureTime": "2020-01-01T18:12:08.562-05:00",
+        "arrivalTime": "2020-01-01T21:59:08.562-08:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 49
+        },
+        "arrivalTemp": {
+            "currentTemperature": 50
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "8706",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "6h 56m",
+            "hours": 6,
+            "minutes": 56
+        },
+        "departureTime": "2020-01-01T19:40:25.704-05:00",
+        "arrivalTime": "2020-01-01T23:36:25.704-08:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 1
+        },
+        "arrivalTemp": {
+            "currentTemperature": 46
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "2758",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "6h 30m",
+            "hours": 6,
+            "minutes": 30
+        },
+        "departureTime": "2020-01-01T21:20:42.846-05:00",
+        "arrivalTime": "2020-01-02T00:50:42.846-08:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 31
+        },
+        "arrivalTemp": {
+            "currentTemperature": 0
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "7950",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "6h 32m",
+            "hours": 6,
+            "minutes": 32
+        },
+        "departureTime": "2020-01-01T22:55:59.988-05:00",
+        "arrivalTime": "2020-01-02T02:27:59.988-08:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 11
+        },
+        "arrivalTemp": {
+            "currentTemperature": 48
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "0650",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "6h 28m",
+            "hours": 6,
+            "minutes": 28
+        },
+        "departureTime": "2020-01-02T00:11:17.130-05:00",
+        "arrivalTime": "2020-01-02T03:39:17.130-08:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 21
+        },
+        "arrivalTemp": {
+            "currentTemperature": 2
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "0713",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 29m",
+            "hours": 3,
+            "minutes": 29
+        },
+        "departureTime": "2020-01-01T02:21:32.307-05:00",
+        "arrivalTime": "2020-01-01T04:50:32.307-06:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 24
+        },
+        "arrivalTemp": {
+            "currentTemperature": 67
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "0179",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 39m",
+            "hours": 3,
+            "minutes": 39
+        },
+        "departureTime": "2020-01-01T03:49:04.614-05:00",
+        "arrivalTime": "2020-01-01T06:28:04.614-06:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 49
+        },
+        "arrivalTemp": {
+            "currentTemperature": 67
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "5659",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 33m",
+            "hours": 3,
+            "minutes": 33
+        },
+        "departureTime": "2020-01-01T05:32:36.921-05:00",
+        "arrivalTime": "2020-01-01T08:05:36.921-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 46
+        },
+        "arrivalTemp": {
+            "currentTemperature": 70
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "1239",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 33m",
+            "hours": 3,
+            "minutes": 33
+        },
+        "departureTime": "2020-01-01T07:26:09.228-05:00",
+        "arrivalTime": "2020-01-01T09:59:09.228-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 7
+        },
+        "arrivalTemp": {
+            "currentTemperature": 60
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "2045",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 55m",
+            "hours": 3,
+            "minutes": 55
+        },
+        "departureTime": "2020-01-01T08:48:41.535-05:00",
+        "arrivalTime": "2020-01-01T11:43:41.535-06:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 13
+        },
+        "arrivalTemp": {
+            "currentTemperature": 76
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "3242",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 42m",
+            "hours": 3,
+            "minutes": 42
+        },
+        "departureTime": "2020-01-01T10:26:13.842-05:00",
+        "arrivalTime": "2020-01-01T13:08:13.842-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 40
+        },
+        "arrivalTemp": {
+            "currentTemperature": 95
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "5072",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 42m",
+            "hours": 3,
+            "minutes": 42
+        },
+        "departureTime": "2020-01-01T12:23:46.149-05:00",
+        "arrivalTime": "2020-01-01T15:05:46.149-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 29
+        },
+        "arrivalTemp": {
+            "currentTemperature": 95
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "7427",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 31m",
+            "hours": 3,
+            "minutes": 31
+        },
+        "departureTime": "2020-01-01T14:06:18.456-05:00",
+        "arrivalTime": "2020-01-01T16:37:18.456-06:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 53
+        },
+        "arrivalTemp": {
+            "currentTemperature": 90
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "9734",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 42m",
+            "hours": 3,
+            "minutes": 42
+        },
+        "departureTime": "2020-01-01T15:28:50.763-05:00",
+        "arrivalTime": "2020-01-01T18:10:50.763-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 53
+        },
+        "arrivalTemp": {
+            "currentTemperature": 80
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "0191",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 39m",
+            "hours": 3,
+            "minutes": 39
+        },
+        "departureTime": "2020-01-01T16:52:23.070-05:00",
+        "arrivalTime": "2020-01-01T19:31:23.070-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 70
+        },
+        "arrivalTemp": {
+            "currentTemperature": 63
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "3228",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 48m",
+            "hours": 3,
+            "minutes": 48
+        },
+        "departureTime": "2020-01-01T18:35:55.377-05:00",
+        "arrivalTime": "2020-01-01T21:23:55.377-06:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 5
+        },
+        "arrivalTemp": {
+            "currentTemperature": 78
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "9052",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 33m",
+            "hours": 3,
+            "minutes": 33
+        },
+        "departureTime": "2020-01-01T20:10:27.684-05:00",
+        "arrivalTime": "2020-01-01T22:43:27.684-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 17
+        },
+        "arrivalTemp": {
+            "currentTemperature": 79
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "1623",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 39m",
+            "hours": 3,
+            "minutes": 39
+        },
+        "departureTime": "2020-01-01T22:02:59.991-05:00",
+        "arrivalTime": "2020-01-02T00:41:59.991-06:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 33
+        },
+        "arrivalTemp": {
+            "currentTemperature": 74
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "2498",
+        "origin": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 1390,
+        "duration": {
+            "locale": "3h 37m",
+            "hours": 3,
+            "minutes": 37
+        },
+        "departureTime": "2020-01-01T23:46:32.298-05:00",
+        "arrivalTime": "2020-01-02T02:23:32.298-06:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 4
+        },
+        "arrivalTemp": {
+            "currentTemperature": 60
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "5465",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 34m",
+            "hours": 4,
+            "minutes": 34
+        },
+        "departureTime": "2020-01-01T02:27:00.000-08:00",
+        "arrivalTime": "2020-01-01T09:01:00.000-06:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 29
+        },
+        "arrivalTemp": {
+            "currentTemperature": 28
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "2997",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 33m",
+            "hours": 4,
+            "minutes": 33
+        },
+        "departureTime": "2020-01-01T04:09:00.000-08:00",
+        "arrivalTime": "2020-01-01T10:42:00.000-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 2
+        },
+        "arrivalTemp": {
+            "currentTemperature": 13
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "3245",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 25m",
+            "hours": 4,
+            "minutes": 25
+        },
+        "departureTime": "2020-01-01T05:33:00.000-08:00",
+        "arrivalTime": "2020-01-01T11:58:00.000-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 43
+        },
+        "arrivalTemp": {
+            "currentTemperature": 14
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "1964",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 25m",
+            "hours": 4,
+            "minutes": 25
+        },
+        "departureTime": "2020-01-01T06:42:00.000-08:00",
+        "arrivalTime": "2020-01-01T13:07:00.000-06:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 17
+        },
+        "arrivalTemp": {
+            "currentTemperature": 40
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "0420",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 48m",
+            "hours": 4,
+            "minutes": 48
+        },
+        "departureTime": "2020-01-01T08:01:00.000-08:00",
+        "arrivalTime": "2020-01-01T14:49:00.000-06:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 15
+        },
+        "arrivalTemp": {
+            "currentTemperature": 57
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "9944",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 30m",
+            "hours": 4,
+            "minutes": 30
+        },
+        "departureTime": "2020-01-01T09:40:00.000-08:00",
+        "arrivalTime": "2020-01-01T16:10:00.000-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 11
+        },
+        "arrivalTemp": {
+            "currentTemperature": 30
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "5867",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 28m",
+            "hours": 4,
+            "minutes": 28
+        },
+        "departureTime": "2020-01-01T10:50:00.000-08:00",
+        "arrivalTime": "2020-01-01T17:18:00.000-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 8
+        },
+        "arrivalTemp": {
+            "currentTemperature": 46
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "4055",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 30m",
+            "hours": 4,
+            "minutes": 30
+        },
+        "departureTime": "2020-01-01T12:12:00.000-08:00",
+        "arrivalTime": "2020-01-01T18:42:00.000-06:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 49
+        },
+        "arrivalTemp": {
+            "currentTemperature": 1
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "8449",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "5h 0m",
+            "hours": 5,
+            "minutes": 0
+        },
+        "departureTime": "2020-01-01T13:49:00.000-08:00",
+        "arrivalTime": "2020-01-01T20:49:00.000-06:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 67
+        },
+        "arrivalTemp": {
+            "currentTemperature": 14
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "2528",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 45m",
+            "hours": 4,
+            "minutes": 45
+        },
+        "departureTime": "2020-01-01T15:37:00.000-08:00",
+        "arrivalTime": "2020-01-01T22:22:00.000-06:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 60
+        },
+        "arrivalTemp": {
+            "currentTemperature": 26
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "7106",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 22m",
+            "hours": 4,
+            "minutes": 22
+        },
+        "departureTime": "2020-01-01T16:59:00.000-08:00",
+        "arrivalTime": "2020-01-01T23:21:00.000-06:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 69
+        },
+        "arrivalTemp": {
+            "currentTemperature": 17
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "1258",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 43m",
+            "hours": 4,
+            "minutes": 43
+        },
+        "departureTime": "2020-01-01T18:32:00.000-08:00",
+        "arrivalTime": "2020-01-02T01:15:00.000-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 3
+        },
+        "arrivalTemp": {
+            "currentTemperature": 2
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "8758",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 51m",
+            "hours": 4,
+            "minutes": 51
+        },
+        "departureTime": "2020-01-01T20:13:00.000-08:00",
+        "arrivalTime": "2020-01-02T03:04:00.000-06:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 7
+        },
+        "arrivalTemp": {
+            "currentTemperature": 4
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "0916",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 26m",
+            "hours": 4,
+            "minutes": 26
+        },
+        "departureTime": "2020-01-01T21:48:00.000-08:00",
+        "arrivalTime": "2020-01-02T04:14:00.000-06:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 40
+        },
+        "arrivalTemp": {
+            "currentTemperature": 18
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "0734",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 23m",
+            "hours": 4,
+            "minutes": 23
+        },
+        "departureTime": "2020-01-01T22:58:00.000-08:00",
+        "arrivalTime": "2020-01-02T05:21:00.000-06:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 43
+        },
+        "arrivalTemp": {
+            "currentTemperature": 4
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "1969",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 21m",
+            "hours": 4,
+            "minutes": 21
+        },
+        "departureTime": "2020-01-02T00:12:00.000-08:00",
+        "arrivalTime": "2020-01-02T06:33:00.000-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 15
+        },
+        "arrivalTemp": {
+            "currentTemperature": 19
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "0011",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "7h 5m",
+            "hours": 7,
+            "minutes": 5
+        },
+        "departureTime": "2020-01-01T03:18:00.000-08:00",
+        "arrivalTime": "2020-01-01T13:23:00.000-05:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 43
+        },
+        "arrivalTemp": {
+            "currentTemperature": 63
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "2636",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "6h 20m",
+            "hours": 6,
+            "minutes": 20
+        },
+        "departureTime": "2020-01-01T05:10:00.000-08:00",
+        "arrivalTime": "2020-01-01T14:30:00.000-05:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 34
+        },
+        "arrivalTemp": {
+            "currentTemperature": 66
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "9494",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "6h 21m",
+            "hours": 6,
+            "minutes": 21
+        },
+        "departureTime": "2020-01-01T07:35:00.000-08:00",
+        "arrivalTime": "2020-01-01T16:56:00.000-05:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 12
+        },
+        "arrivalTemp": {
+            "currentTemperature": 50
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "5479",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "6h 42m",
+            "hours": 6,
+            "minutes": 42
+        },
+        "departureTime": "2020-01-01T10:01:00.000-08:00",
+        "arrivalTime": "2020-01-01T19:43:00.000-05:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 29
+        },
+        "arrivalTemp": {
+            "currentTemperature": 50
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "5670",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "6h 33m",
+            "hours": 6,
+            "minutes": 33
+        },
+        "departureTime": "2020-01-01T12:26:00.000-08:00",
+        "arrivalTime": "2020-01-01T21:59:00.000-05:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 31
+        },
+        "arrivalTemp": {
+            "currentTemperature": 46
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "6949",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "6h 47m",
+            "hours": 6,
+            "minutes": 47
+        },
+        "departureTime": "2020-01-01T14:53:00.000-08:00",
+        "arrivalTime": "2020-01-02T00:40:00.000-05:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 69
+        },
+        "arrivalTemp": {
+            "currentTemperature": 25
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "8992",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "6h 17m",
+            "hours": 6,
+            "minutes": 17
+        },
+        "departureTime": "2020-01-01T17:10:00.000-08:00",
+        "arrivalTime": "2020-01-02T02:27:00.000-05:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 58
+        },
+        "arrivalTemp": {
+            "currentTemperature": 48
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "3886",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "6h 27m",
+            "hours": 6,
+            "minutes": 27
+        },
+        "departureTime": "2020-01-01T19:14:00.000-08:00",
+        "arrivalTime": "2020-01-02T04:41:00.000-05:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 23
+        },
+        "arrivalTemp": {
+            "currentTemperature": 23
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "7403",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "6h 34m",
+            "hours": 6,
+            "minutes": 34
+        },
+        "departureTime": "2020-01-01T21:09:00.000-08:00",
+        "arrivalTime": "2020-01-02T06:43:00.000-05:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 46
+        },
+        "arrivalTemp": {
+            "currentTemperature": 10
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "6774",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "6h 13m",
+            "hours": 6,
+            "minutes": 13
+        },
+        "departureTime": "2020-01-01T23:11:00.000-08:00",
+        "arrivalTime": "2020-01-02T08:24:00.000-05:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 39
+        },
+        "arrivalTemp": {
+            "currentTemperature": 15
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "1019",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 2472,
+        "duration": {
+            "locale": "6h 44m",
+            "hours": 6,
+            "minutes": 44
+        },
+        "departureTime": "2020-01-02T01:40:00.000-08:00",
+        "arrivalTime": "2020-01-02T11:24:00.000-05:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 6
+        },
+        "arrivalTemp": {
+            "currentTemperature": 35
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "1264",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 1234,
+        "duration": {
+            "locale": "3h 22m",
+            "hours": 3,
+            "minutes": 22
+        },
+        "departureTime": "2020-01-01T03:55:34.285-08:00",
+        "arrivalTime": "2020-01-01T09:17:34.285-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 9
+        },
+        "arrivalTemp": {
+            "currentTemperature": 72
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "6475",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 1234,
+        "duration": {
+            "locale": "3h 9m",
+            "hours": 3,
+            "minutes": 9
+        },
+        "departureTime": "2020-01-01T07:18:08.570-08:00",
+        "arrivalTime": "2020-01-01T12:27:08.570-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 5
+        },
+        "arrivalTemp": {
+            "currentTemperature": 80
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "1303",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 1234,
+        "duration": {
+            "locale": "3h 30m",
+            "hours": 3,
+            "minutes": 30
+        },
+        "departureTime": "2020-01-01T10:46:42.855-08:00",
+        "arrivalTime": "2020-01-01T16:16:42.855-06:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 8
+        },
+        "arrivalTemp": {
+            "currentTemperature": 87
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "3931",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 1234,
+        "duration": {
+            "locale": "3h 10m",
+            "hours": 3,
+            "minutes": 10
+        },
+        "departureTime": "2020-01-01T14:05:17.140-08:00",
+        "arrivalTime": "2020-01-01T19:15:17.140-06:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 51
+        },
+        "arrivalTemp": {
+            "currentTemperature": 65
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "5809",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 1234,
+        "duration": {
+            "locale": "3h 14m",
+            "hours": 3,
+            "minutes": 14
+        },
+        "departureTime": "2020-01-01T16:53:51.425-08:00",
+        "arrivalTime": "2020-01-01T22:07:51.425-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 69
+        },
+        "arrivalTemp": {
+            "currentTemperature": 64
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "8762",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 1234,
+        "duration": {
+            "locale": "3h 19m",
+            "hours": 3,
+            "minutes": 19
+        },
+        "departureTime": "2020-01-01T19:54:25.710-08:00",
+        "arrivalTime": "2020-01-02T01:13:25.710-06:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 7
+        },
+        "arrivalTemp": {
+            "currentTemperature": 80
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "9628",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 1234,
+        "duration": {
+            "locale": "3h 27m",
+            "hours": 3,
+            "minutes": 27
+        },
+        "departureTime": "2020-01-01T23:09:59.995-08:00",
+        "arrivalTime": "2020-01-02T04:36:59.995-06:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 23
+        },
+        "arrivalTemp": {
+            "currentTemperature": 72
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "5956",
+        "origin": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 1234,
+        "duration": {
+            "locale": "3h 16m",
+            "hours": 3,
+            "minutes": 16
+        },
+        "departureTime": "2020-01-02T02:32:34.280-08:00",
+        "arrivalTime": "2020-01-02T07:48:34.280-06:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 14
+        },
+        "arrivalTemp": {
+            "currentTemperature": 61
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "1939",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 38m",
+            "hours": 4,
+            "minutes": 38
+        },
+        "departureTime": "2020-01-01T02:24:17.142-06:00",
+        "arrivalTime": "2020-01-01T05:02:17.142-08:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 19
+        },
+        "arrivalTemp": {
+            "currentTemperature": 20
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "0201",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 29m",
+            "hours": 4,
+            "minutes": 29
+        },
+        "departureTime": "2020-01-01T04:15:34.284-06:00",
+        "arrivalTime": "2020-01-01T06:44:34.284-08:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 30
+        },
+        "arrivalTemp": {
+            "currentTemperature": 18
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "1054",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 34m",
+            "hours": 4,
+            "minutes": 34
+        },
+        "departureTime": "2020-01-01T05:33:51.426-06:00",
+        "arrivalTime": "2020-01-01T08:07:51.426-08:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 21
+        },
+        "arrivalTemp": {
+            "currentTemperature": 15
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "4874",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 47m",
+            "hours": 4,
+            "minutes": 47
+        },
+        "departureTime": "2020-01-01T06:48:08.568-06:00",
+        "arrivalTime": "2020-01-01T09:35:08.568-08:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 4
+        },
+        "arrivalTemp": {
+            "currentTemperature": 27
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "3415",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 24m",
+            "hours": 4,
+            "minutes": 24
+        },
+        "departureTime": "2020-01-01T08:24:25.710-06:00",
+        "arrivalTime": "2020-01-01T10:48:25.710-08:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 9
+        },
+        "arrivalTemp": {
+            "currentTemperature": 3
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "3988",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 28m",
+            "hours": 4,
+            "minutes": 28
+        },
+        "departureTime": "2020-01-01T09:55:42.852-06:00",
+        "arrivalTime": "2020-01-01T12:23:42.852-08:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 5
+        },
+        "arrivalTemp": {
+            "currentTemperature": 42
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "6210",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 32m",
+            "hours": 4,
+            "minutes": 32
+        },
+        "departureTime": "2020-01-01T11:28:59.994-06:00",
+        "arrivalTime": "2020-01-01T14:00:59.994-08:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 26
+        },
+        "arrivalTemp": {
+            "currentTemperature": 52
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "3331",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 29m",
+            "hours": 4,
+            "minutes": 29
+        },
+        "departureTime": "2020-01-01T13:18:17.136-06:00",
+        "arrivalTime": "2020-01-01T15:47:17.136-08:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 30
+        },
+        "arrivalTemp": {
+            "currentTemperature": 53
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "4029",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 41m",
+            "hours": 4,
+            "minutes": 41
+        },
+        "departureTime": "2020-01-01T14:44:34.278-06:00",
+        "arrivalTime": "2020-01-01T17:25:34.278-08:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 55
+        },
+        "arrivalTemp": {
+            "currentTemperature": 66
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "2772",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 27m",
+            "hours": 4,
+            "minutes": 27
+        },
+        "departureTime": "2020-01-01T16:02:51.420-06:00",
+        "arrivalTime": "2020-01-01T18:29:51.420-08:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 48
+        },
+        "arrivalTemp": {
+            "currentTemperature": 33
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "1779",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 47m",
+            "hours": 4,
+            "minutes": 47
+        },
+        "departureTime": "2020-01-01T17:19:08.562-06:00",
+        "arrivalTime": "2020-01-01T20:06:08.562-08:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 49
+        },
+        "arrivalTemp": {
+            "currentTemperature": 46
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "3359",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 36m",
+            "hours": 4,
+            "minutes": 36
+        },
+        "departureTime": "2020-01-01T19:09:25.704-06:00",
+        "arrivalTime": "2020-01-01T21:45:25.704-08:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 15
+        },
+        "arrivalTemp": {
+            "currentTemperature": 24
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "6047",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 46m",
+            "hours": 4,
+            "minutes": 46
+        },
+        "departureTime": "2020-01-01T20:26:42.846-06:00",
+        "arrivalTime": "2020-01-01T23:12:42.846-08:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 25
+        },
+        "arrivalTemp": {
+            "currentTemperature": 1
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "1807",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 47m",
+            "hours": 4,
+            "minutes": 47
+        },
+        "departureTime": "2020-01-01T21:49:59.988-06:00",
+        "arrivalTime": "2020-01-02T00:36:59.988-08:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 26
+        },
+        "arrivalTemp": {
+            "currentTemperature": 28
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "0324",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "LAX",
+            "city": "Los Angeles",
+            "timezone": "America/Los_Angeles",
+            "location": {
+                "latitude": 33.9416,
+                "longitude": 118.4085
+            }
+        },
+        "distance": 1743,
+        "duration": {
+            "locale": "4h 45m",
+            "hours": 4,
+            "minutes": 45
+        },
+        "departureTime": "2020-01-01T23:39:17.130-06:00",
+        "arrivalTime": "2020-01-02T02:24:17.130-08:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 1
+        },
+        "arrivalTemp": {
+            "currentTemperature": 11
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "7902",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 739,
+        "duration": {
+            "locale": "1h 51m",
+            "hours": 1,
+            "minutes": 51
+        },
+        "departureTime": "2020-01-01T03:56:34.285-06:00",
+        "arrivalTime": "2020-01-01T06:47:34.285-05:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 12
+        },
+        "arrivalTemp": {
+            "currentTemperature": 16
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "1867",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 739,
+        "duration": {
+            "locale": "1h 59m",
+            "hours": 1,
+            "minutes": 59
+        },
+        "departureTime": "2020-01-01T07:00:08.570-06:00",
+        "arrivalTime": "2020-01-01T09:59:08.570-05:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 3
+        },
+        "arrivalTemp": {
+            "currentTemperature": 37
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "0519",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 739,
+        "duration": {
+            "locale": "1h 51m",
+            "hours": 1,
+            "minutes": 51
+        },
+        "departureTime": "2020-01-01T10:03:42.855-06:00",
+        "arrivalTime": "2020-01-01T12:54:42.855-05:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 26
+        },
+        "arrivalTemp": {
+            "currentTemperature": 4
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "2249",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 739,
+        "duration": {
+            "locale": "1h 57m",
+            "hours": 1,
+            "minutes": 57
+        },
+        "departureTime": "2020-01-01T13:23:17.140-06:00",
+        "arrivalTime": "2020-01-01T16:20:17.140-05:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 30
+        },
+        "arrivalTemp": {
+            "currentTemperature": 50
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "5504",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 739,
+        "duration": {
+            "locale": "2h 1m",
+            "hours": 2,
+            "minutes": 1
+        },
+        "departureTime": "2020-01-01T16:41:51.425-06:00",
+        "arrivalTime": "2020-01-01T19:42:51.425-05:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 41
+        },
+        "arrivalTemp": {
+            "currentTemperature": 33
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "3219",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 739,
+        "duration": {
+            "locale": "1h 51m",
+            "hours": 1,
+            "minutes": 51
+        },
+        "departureTime": "2020-01-01T19:50:25.710-06:00",
+        "arrivalTime": "2020-01-01T22:41:25.710-05:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 26
+        },
+        "arrivalTemp": {
+            "currentTemperature": 30
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "9025",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 739,
+        "duration": {
+            "locale": "1h 59m",
+            "hours": 1,
+            "minutes": 59
+        },
+        "departureTime": "2020-01-01T22:43:59.995-06:00",
+        "arrivalTime": "2020-01-02T01:42:59.995-05:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 30
+        },
+        "arrivalTemp": {
+            "currentTemperature": 42
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "7797",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "JFK",
+            "city": "New York City",
+            "timezone": "America/New_York",
+            "location": {
+                "latitude": 40.6413,
+                "longitude": 73.7781
+            }
+        },
+        "distance": 739,
+        "duration": {
+            "locale": "1h 56m",
+            "hours": 1,
+            "minutes": 56
+        },
+        "departureTime": "2020-01-02T02:07:34.280-06:00",
+        "arrivalTime": "2020-01-02T05:03:34.280-05:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 20
+        },
+        "arrivalTemp": {
+            "currentTemperature": 10
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "8753",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 802,
+        "duration": {
+            "locale": "2h 4m",
+            "hours": 2,
+            "minutes": 4
+        },
+        "departureTime": "2020-01-01T02:52:00.000-06:00",
+        "arrivalTime": "2020-01-01T04:56:00.000-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 12
+        },
+        "arrivalTemp": {
+            "currentTemperature": 69
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "6230",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 802,
+        "duration": {
+            "locale": "2h 1m",
+            "hours": 2,
+            "minutes": 1
+        },
+        "departureTime": "2020-01-01T04:33:00.000-06:00",
+        "arrivalTime": "2020-01-01T06:34:00.000-06:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 2
+        },
+        "arrivalTemp": {
+            "currentTemperature": 66
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "1453",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 802,
+        "duration": {
+            "locale": "2h 9m",
+            "hours": 2,
+            "minutes": 9
+        },
+        "departureTime": "2020-01-01T06:39:00.000-06:00",
+        "arrivalTime": "2020-01-01T08:48:00.000-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 15
+        },
+        "arrivalTemp": {
+            "currentTemperature": 71
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "5794",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 802,
+        "duration": {
+            "locale": "2h 0m",
+            "hours": 2,
+            "minutes": 0
+        },
+        "departureTime": "2020-01-01T08:43:00.000-06:00",
+        "arrivalTime": "2020-01-01T10:43:00.000-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 25
+        },
+        "arrivalTemp": {
+            "currentTemperature": 75
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "3085",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 802,
+        "duration": {
+            "locale": "2h 14m",
+            "hours": 2,
+            "minutes": 14
+        },
+        "departureTime": "2020-01-01T10:58:00.000-06:00",
+        "arrivalTime": "2020-01-01T13:12:00.000-06:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 20
+        },
+        "arrivalTemp": {
+            "currentTemperature": 93
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "8872",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 802,
+        "duration": {
+            "locale": "2h 17m",
+            "hours": 2,
+            "minutes": 17
+        },
+        "departureTime": "2020-01-01T12:59:00.000-06:00",
+        "arrivalTime": "2020-01-01T15:16:00.000-06:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 30
+        },
+        "arrivalTemp": {
+            "currentTemperature": 95
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "1493",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 802,
+        "duration": {
+            "locale": "2h 8m",
+            "hours": 2,
+            "minutes": 8
+        },
+        "departureTime": "2020-01-01T15:09:00.000-06:00",
+        "arrivalTime": "2020-01-01T17:17:00.000-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 33
+        },
+        "arrivalTemp": {
+            "currentTemperature": 88
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "1276",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 802,
+        "duration": {
+            "locale": "2h 6m",
+            "hours": 2,
+            "minutes": 6
+        },
+        "departureTime": "2020-01-01T17:10:00.000-06:00",
+        "arrivalTime": "2020-01-01T19:16:00.000-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 46
+        },
+        "arrivalTemp": {
+            "currentTemperature": 68
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "3492",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 802,
+        "duration": {
+            "locale": "2h 18m",
+            "hours": 2,
+            "minutes": 18
+        },
+        "departureTime": "2020-01-01T19:03:00.000-06:00",
+        "arrivalTime": "2020-01-01T21:21:00.000-06:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 1
+        },
+        "arrivalTemp": {
+            "currentTemperature": 71
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "3419",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 802,
+        "duration": {
+            "locale": "2h 5m",
+            "hours": 2,
+            "minutes": 5
+        },
+        "departureTime": "2020-01-01T20:48:00.000-06:00",
+        "arrivalTime": "2020-01-01T22:53:00.000-06:00",
+        "aircraft": {
+            "model": "321",
+            "passengerCapacity": {
+                "total": 181,
+                "main": 165,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 23
+        },
+        "arrivalTemp": {
+            "currentTemperature": 70
+        },
+        "seatPitch": {
+            "totalSeatPitch": 31
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "5516",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 802,
+        "duration": {
+            "locale": "2h 12m",
+            "hours": 2,
+            "minutes": 12
+        },
+        "departureTime": "2020-01-01T22:33:00.000-06:00",
+        "arrivalTime": "2020-01-02T00:45:00.000-06:00",
+        "aircraft": {
+            "model": "757",
+            "passengerCapacity": {
+                "total": 176,
+                "main": 160,
+                "first": 16
+            },
+            "speed": 380
+        },
+        "originTemp": {
+            "currentTemperature": 18
+        },
+        "arrivalTemp": {
+            "currentTemperature": 80
+        },
+        "seatPitch": {
+            "totalSeatPitch": 32
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    },
+    {
+        "flightNumber": "8120",
+        "origin": {
+            "code": "ORD",
+            "city": "Chicago",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 41.9742,
+                "longitude": 87.9073
+            }
+        },
+        "destination": {
+            "code": "DFW",
+            "city": "Dallas-Fort Worth",
+            "timezone": "America/Chicago",
+            "location": {
+                "latitude": 32.8998,
+                "longitude": 97.0403
+            }
+        },
+        "distance": 802,
+        "duration": {
+            "locale": "2h 1m",
+            "hours": 2,
+            "minutes": 1
+        },
+        "departureTime": "2020-01-02T00:45:00.000-06:00",
+        "arrivalTime": "2020-01-02T02:46:00.000-06:00",
+        "aircraft": {
+            "model": "738",
+            "passengerCapacity": {
+                "total": 160,
+                "main": 144,
+                "first": 16
+            },
+            "speed": 400
+        },
+        "originTemp": {
+            "currentTemperature": 5
+        },
+        "arrivalTemp": {
+            "currentTemperature": 76
+        },
+        "seatPitch": {
+            "totalSeatPitch": 30
+        },
+        "accomodies": {
+            "wifi": true,
+            "power": false,
+            "overhead": false,
+            "seatback": true
+        }
+    }
+]
